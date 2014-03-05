@@ -1,0 +1,10 @@
+name: LogBlock-Anti-Xray
+main: net.felixkraus.LogBlockAntiXray.AntiXray
+version: 1.0
+authors: [xilefkfelix]
+depends: [LogBlock]
+description: Anti Xray Plugin
+commands:
+  xlu:
+    usage: /xlu <name> <days>
+    permission: lbantixray.use
